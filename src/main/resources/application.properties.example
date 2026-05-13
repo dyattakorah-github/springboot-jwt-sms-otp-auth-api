@@ -1,0 +1,15 @@
+spring.application.name=YourApplicationName
+
+# Database Configuration
+spring.datasource.url=YOUR_DATABASE_URL
+spring.datasource.username=YOUR_DATABASE_NAME
+spring.datasource.password=YOUR_DATABASE_PASSWORD
+
+# JWT secret key
+security.jwt.secret-key=YOUR_SECRET_KEY
+security.jwt.expiration-time=600000
+
+# Africa's Talking Configuration
+africastalking.username=YOUR_API_KEY
+africastalking.api-key=YOUR_USERNAME
+africastalking.sender-id=YOUR_SENDER_ID
