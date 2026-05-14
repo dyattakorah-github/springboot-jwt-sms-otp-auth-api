@@ -102,6 +102,7 @@ A secure phone number-based authentication API built with Spring Boot, Spring Se
 
 ```json
 {
+  "message": "Login successful",
   "token": "eyJhbGciOiJIUzI1NiJ9..."
 }
 ```
